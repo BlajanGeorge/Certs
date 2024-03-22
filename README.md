@@ -5,3 +5,5 @@
 [Redis | RU202: Redis Streams](https://university.redis.com/certificates/3fcb8b65d59d4f8b8c582db37adcacad)  
 [Redis | RU301: Running Redis at Scale](https://university.redis.com/certificates/ffdb1c677ec3402a8e7af39632818a84)  
 [Redis | RU330: Redis Security](https://university.redis.com/certificates/fd3bece2ed9349f79e33952eedf74344)
+
+# PostgreSql

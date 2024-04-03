@@ -7,4 +7,3 @@
 [Redis | RU330: Redis Security](https://university.redis.com/certificates/fd3bece2ed9349f79e33952eedf74344)
 
 # MongoDB
-
